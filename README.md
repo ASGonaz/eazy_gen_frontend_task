@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Easy Generator - AI-powered e-learning creation tool for enterprises
 
 Transform your documents into engaging e-learning or create company-tailored courses from scratch in minutes. Made for subject-matter experts and L&D alike.
@@ -39,8 +38,7 @@ Transform your documents into engaging e-learning or create company-tailored cou
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/easy-generator.git
-cd easy-generator/frontend
+git clone https://github.com/ASGonaz/eazy_gen_frontend_task.git
 ```
 
 2. Install dependencies:
@@ -131,9 +129,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - ahmed.sameh20212021@gmail.com
 
-Project Link: [https://github.com/yourusername/easy-generator](https://github.com/yourusername/easy-generator)
-=======
-# eazy_gen_frontend_task
->>>>>>> d2fa3e737c9659a8f790cb3ff8d498204c8f6c99
+Project Link: https://github.com/ASGonaz/eazy_gen_frontend_task/master
+
