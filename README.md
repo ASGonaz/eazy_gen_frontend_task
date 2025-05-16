@@ -131,5 +131,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Your Name - ahmed.sameh20212021@gmail.com
 
-Project Link: https://github.com/ASGonaz/eazy_gen_frontend_task/master
+Project Link:[https://github.com/ASGonaz/eazy_gen_frontend_task/tree/master]
 
