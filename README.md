@@ -53,7 +53,7 @@ REACT_APP_BACKEND_BASEURL=http://localhost:8000
 
 4. Start the development server:
 ```bash
-npm run dev
+npm run start
 ```
 
 ## 🏗️ Project Structure
@@ -106,7 +106,7 @@ The frontend communicates with the backend API using Axios. API calls are organi
 To run the development server:
 
 ```bash
-npm run dev
+npm run start
 ```
 
 To build for production:
