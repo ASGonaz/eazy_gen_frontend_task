@@ -1,0 +1,1 @@
+# eazy_gen_frontend_task
